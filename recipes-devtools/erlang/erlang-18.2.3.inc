@@ -1,2 +1,1 @@
-SRC_URI[md5sum] = "236741d3893b09cdd1699edd1549db6b"
-SRC_URI[sha256sum] = "afb2d7dd8671623044c2b6baaf980c3c21dec7159f0367ffa7e66303197fbf7b"
+SRC_URI[md5sum] = "7fe1ad5c3575c2e9c036f7a4aad123e1"
